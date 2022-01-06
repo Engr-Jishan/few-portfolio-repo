@@ -72,3 +72,48 @@ section{
 .few-third-page p{
     font-size: 20px;
 }
+.few-flow-four{
+    padding-left: 10%;
+    padding-right: 5%;
+    
+}
+.few-flow-four{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.few-flow-four p{
+    font-size: 20px;
+}
+
+.few-flow-five{
+    padding-right: 10%;
+    padding-left: 10%;
+
+}
+.few-flow-five{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.few-flow-five p{
+    font-size: 20px;
+}
+
+
+.last-page{
+    border: 100px solid black;
+    background-color: black ;
+}
+
+.few-last-page{
+    color: white;
+    font-family:'Poppins', sans-serif;
+    font-size: 35px;
+}
+.flow-last-page{
+    text-align: center;
+    font-family: Verdana; 
+    font-size: 10px;
+}
+.few-last-pages{
+    color: white;
+}
