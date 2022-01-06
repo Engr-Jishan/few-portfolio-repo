@@ -7,7 +7,7 @@ section{
     display: flex;
     margin-bottom: 130px;
 }
-#simple{
+.simple{
     color: orange;
 }
 .flow-width{
@@ -30,4 +30,45 @@ section{
         background-color: rgb(192, 78, 78);
         padding: 15px 35px;
         border-radius: 5px;
+}
+.another-flow-width{
+    font-size: 30px;
+    font-family: Verdana;
+    text-align: center;
+}
+.few-flow-width-one{
+    background-color: #a5d0da;
+    padding: 3%;
+    font-family: verdana;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+}
+.few-flow-width-two{
+    background-color: #dfc7d6;
+    padding: 3%;
+    font-family: verdana;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px; 
+}
+.few-flow-width-three{
+    background-color: #cec8b6;
+    padding: 3%;
+    font-family: verdana;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+}
+.few-third-page{
+    width: 25%;
+    margin-left: 10%;
+    font-size: 30px;
+    font-family: Verdana;
+}
+.few-third-page p{
+    font-size: 20px;
 }
